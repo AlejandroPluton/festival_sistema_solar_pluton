@@ -1,0 +1,33 @@
+/* Fondo Sol */
+.bg-sol {
+    background: linear-gradient(135deg, #ffb703, #fb8500);
+    color: white;
+}
+
+/* Fondo Tierra */
+.bg-tierra {
+    background: linear-gradient(135deg, #023047, #219ebc);
+    color: white;
+}
+
+/* Fondo Jupiter */
+.bg-jupiter {
+    background: linear-gradient(135deg, #bc6c25, #dda15e);
+    color: white;
+}
+
+/* Fondo Pluton */
+.bg-pluton {
+    background: linear-gradient(135deg, #240046, #5a189a);
+    color: white;
+}
+
+/* Espaciado general */
+section {
+    padding: 80px 0;
+}
+
+/* Sombra elegante a imágenes */
+img {
+    box-shadow: 0 15px 30px rgba(0,0,0,0.3);
+}
