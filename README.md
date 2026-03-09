@@ -5,11 +5,12 @@ Página web informativa sobre el sistema solar con especial atención a Plutón.
 
 ## Estructura Bootstrap usada
 - Navbar
-- Hero
+- Título
 - 4 secciones(row + col-md-6)
 - Footer
 
 ## Componentes usados
+- Bootstrap
 - Navbar
 - Footer
 
