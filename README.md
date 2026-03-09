@@ -6,7 +6,7 @@ Página web informativa sobre el sistema solar con especial atención a Plutón.
 ## Estructura Bootstrap usada
 - Navbar
 - Título
-- 4 secciones(row + col-md-6)
+- 4 secciones con imágenes y texto
 - Footer
 
 ## Componentes usados
@@ -17,6 +17,7 @@ Página web informativa sobre el sistema solar con especial atención a Plutón.
 ## Commits realizados
 Día 1: estructura base
 Día 2: http completo
+Día 3: Añadidas las imágenes a la carpeta CAPTURAS
 Rama secundaria: mejoras visuales con css
 
 ## Mayor dificultad encontrada
